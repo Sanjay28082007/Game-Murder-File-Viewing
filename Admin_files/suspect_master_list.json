@@ -1,0 +1,50 @@
+[
+  {
+    "howard": {
+      "name": "Howard",
+      "age": 35,
+      "alibi": "Business trip in Mumbai",
+      "relation": "Husband"
+    }
+  },
+  {
+    "serene": {
+      "name": "Serene",
+      "age": 48,
+      "alibi": "Watching TV in kitchen",
+      "relation": "Maid 1"
+    }
+  },
+  {
+    "suzane": {
+      "name": "Suzane",
+      "age": 27,
+      "alibi": "Found Alice's body at 9:10 PM",
+      "relation": "Maid 2"
+    }
+  },
+  {
+    "marc": {
+      "name": "Marc",
+      "age": 30,
+      "alibi": "Was home alone",
+      "relation": "Ex-boyfriend"
+    }
+  },
+  {
+    "trent": {
+      "name": "Trent",
+      "age": 39,
+      "alibi": "Saw a figure entering Alice’s flat",
+      "relation": "Neighbor"
+    }
+  },
+  {
+    "eleanor": {
+      "name": "Eleanor",
+      "age": 42,
+      "alibi": "In therapy session until 9:45 PM",
+      "relation": "Therapist"
+    }
+  }
+]
